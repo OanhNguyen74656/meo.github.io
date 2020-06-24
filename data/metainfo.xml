@@ -1,27 +1,44 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<presentation availableOffline="1" guid="B7EAA57D-C7E3-4E54-B0E4-C64C1FD15AE2" version="0">
+<presentation availableOffline="1" guid="EE772797-0CBB-408A-AF8C-2204C517566B" version="0">
 	<info>
-		<title>Untitled Quiz</title>
+		<title>ATBMTT - TN LÝ THUYẾT</title>
 		<description/>
 	</info>
-	<files index="id14" thumbnail="id10" totalSize="1887573">
+	<files index="id31" thumbnail="id27" totalSize="3089741">
 		<file id="id0">data/apple-touch-icon.png</file>
 		<file id="id1">data/browsersupport.js</file>
 		<file id="id2">data/favicon.ico</file>
 		<file id="id3">data/fonts/fnt0.woff</file>
 		<file id="id4">data/fonts/fnt1.woff</file>
 		<file id="id5">data/fonts/fnt2.woff</file>
-		<file id="id6">data/html5-unsupported.html</file>
-		<file id="id7">data/html5.png</file>
-		<file id="id8">data/ismplayer/app_store2x.png</file>
-		<file id="id9">data/ismplayer/play.svg</file>
-		<file id="id10">data/ismplayer/preview.png</file>
-		<file id="id11">data/ismplayer/style.css</file>
-		<file id="id12">data/ismplayer/style_mini.css</file>
-		<file id="id13">data/player.js</file>
-		<file id="id14">index.html</file>
-		<file id="id15">ismplayer.html</file>
-		<file id="id16">preview.png</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/fonts/fnt5.woff</file>
+		<file id="id9">data/fonts/fnt6.woff</file>
+		<file id="id10">data/html5-unsupported.html</file>
+		<file id="id11">data/html5.png</file>
+		<file id="id12">data/images/img-0446ccdf7c320c457a71707809acdac9d9bc86a7.png</file>
+		<file id="id13">data/images/img-1047d4095ac4ee1516afd068e6e2e9728d9af28f.png</file>
+		<file id="id14">data/images/img-289616df27f3d1b3d9d150d70477f2f0b1b77073.png</file>
+		<file id="id15">data/images/img-379753e19d29c259a66bca6733b897eaa1dd4d93.png</file>
+		<file id="id16">data/images/img-5da3b6522dc9e8130a5f23239c05d6231f3bf2e6.png</file>
+		<file id="id17">data/images/img-5f81d052f8731d800d971a02de35118dad5fdf43.png</file>
+		<file id="id18">data/images/img-6c79c1e79d2c89e4fd35a9f065c769804215d24c.png</file>
+		<file id="id19">data/images/img-9b49e8f1669d9afe343addeda28b74870568d615.png</file>
+		<file id="id20">data/images/img-ae366058ffa780f36974a118c5da10d3c3931257.png</file>
+		<file id="id21">data/images/img-b0b5e2a7e068f1321de878298c11cdef0a5e645d.png</file>
+		<file id="id22">data/images/img-b1359fe8e63dce14003371ec311ffe9aa7a8bf23.png</file>
+		<file id="id23">data/images/img-e5f894605f96fbac228ea0b0dc6442c0abfe816b.png</file>
+		<file id="id24">data/images/img-eadc7369396ad4043fd9a189a1039aa07316456b.png</file>
+		<file id="id25">data/ismplayer/app_store2x.png</file>
+		<file id="id26">data/ismplayer/play.svg</file>
+		<file id="id27">data/ismplayer/preview.png</file>
+		<file id="id28">data/ismplayer/style.css</file>
+		<file id="id29">data/ismplayer/style_mini.css</file>
+		<file id="id30">data/player.js</file>
+		<file id="id31">index.html</file>
+		<file id="id32">ismplayer.html</file>
+		<file id="id33">preview.png</file>
 	</files>
 </presentation>
 
